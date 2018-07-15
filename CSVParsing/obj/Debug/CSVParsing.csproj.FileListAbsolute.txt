@@ -1,0 +1,14 @@
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\obj\Debug\CSVParsing.csprojAssemblyReference.cache
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\obj\Debug\CSVParsing.csproj.CoreCompileInputs.cache
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\bin\Debug\CSVParsing.exe.config
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\bin\Debug\CSVParsing.exe
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\bin\Debug\CSVParsing.pdb
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\obj\Debug\CSVParsing.exe
+C:\Users\Geronimo.Nassois\Geronimo.Nassois\Programming\C#\repos\CSVParsing\CSVParsing\obj\Debug\CSVParsing.pdb
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\bin\Debug\CSVParsing.exe.config
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\bin\Debug\CSVParsing.exe
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\bin\Debug\CSVParsing.pdb
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\obj\Debug\CSVParsing.csprojResolveAssemblyReference.cache
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\obj\Debug\CSVParsing.csproj.CoreCompileInputs.cache
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\obj\Debug\CSVParsing.exe
+C:\Geronimo_Nassois\Programmieren\Lernen\C_Sharp\Projekte\CSVParsing\CSVParsing\obj\Debug\CSVParsing.pdb
